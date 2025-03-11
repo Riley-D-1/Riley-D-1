@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning python and Javascript
+- 🌱 I’m currently learning Python
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Riley-D-1&show_icons=true&locale=en&layout=compact" alt="Riley-D-1" /></p>
 
