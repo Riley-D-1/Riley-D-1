@@ -1,6 +1,4 @@
-## Hi there 👋
 
-- 🌱 I’m currently learning Python
 
 
 <div  align="center" style="margin-bottom">
