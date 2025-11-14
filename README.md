@@ -4,8 +4,8 @@
 
 
 <div  align="center" style="margin-bottom">
-<img width=55% height=190 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Riley-D-1&theme=transparent&mode=yearly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Riley-D-1&theme=transparent&mode=yearly" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
  </div>
  
  &nbsp;
