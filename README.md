@@ -5,15 +5,9 @@
 
 <div  align="center" style="margin-bottom">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Riley-D-1&theme=transparent&mode=yearly" />
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
 
-
-
-## My Skills
 
 #### Main Stack:
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -22,5 +16,3 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
