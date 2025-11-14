@@ -5,7 +5,7 @@
 
 <div  align="center" style="margin-bottom">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Riley-D-1&theme=transparent&mode=yearly" />
-<br>
+<br> <br> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
 
 
