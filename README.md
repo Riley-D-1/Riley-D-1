@@ -1,4 +1,6 @@
-#  Hi, I'm Riley
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Riley)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile!  
 
@@ -17,3 +19,6 @@ Welcome to my GitHub profile!
   <br> <br> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
 </div>  
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
