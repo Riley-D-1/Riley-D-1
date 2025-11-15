@@ -20,5 +20,4 @@ Welcome to my GitHub profile!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" />
 </div>  
 
-<h2 align="center"> Thanks for visiting my profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
