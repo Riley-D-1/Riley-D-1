@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ---
 ## Showcase Website 
-![Portfolio Website](https://example.com)
+[Portfolio Website](https://example.com/)
 ---
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white)
