@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Riley)](#)
 
 
-### [Portfolio Website](youtube.com/watch?v=dQw4w9WgXcQ)
+### [Portfolio Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
