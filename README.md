@@ -17,9 +17,6 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](#)
 ## GitHub Stats
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Riley-D-1&theme=transparent&mode=yearly" href = "" />
-  </a>
   <br> <br> <br>
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riley-D-1&theme=transparent&layout=compact" href = "" />
